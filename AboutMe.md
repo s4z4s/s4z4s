@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @s4z4s!
-- 👀 I’m interested in game developing and software developing.
-- 🌱 I’m currently learning Python/C/C#/C++/Java Script.
-- 💞️ I’m looking to collaborate on game development and software development.
-- 📫 How to reach me via Discord (s4#5454).
+- Hi, I’m @s4z4s.
+- I’m interested AI and software developing.
+- I know Python, C, C# and C++.
+- I’m looking to collaborate on mostly anything.
+- Contact me via Discord (s4#5454).
